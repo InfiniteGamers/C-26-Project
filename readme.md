@@ -1,8 +1,1 @@
-1.Cut your lemon in half.
-2.Squeeze all the juice out of it that you can.
-3.Pour your juice into a container with 1/4 cup (2 oz) sugar.
-4.Add a very small amount of water to your container.
-5.Stir your solution until sugar dissolves.
-6.Fill up the container with water and add ice.
-7.Put your lemonade in the fridge for five minutes.
-8.Serve and enjoy!
+This Recipe is about lemonade and how to make it ! You can find it's ingredients in ingredients.md and recipe in recipe.md .
